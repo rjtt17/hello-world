@@ -1,3 +1,4 @@
 Hello
 Hiroki
-I will be programmer
+I will be programmer.
+I will get new job.
